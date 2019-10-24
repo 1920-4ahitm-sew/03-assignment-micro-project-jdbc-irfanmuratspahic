@@ -1,0 +1,15 @@
+Thu Oct 24 20:49:01 CEST 2019 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+Thu Oct 24 20:49:28 CEST 2019 Thread[DRDAConnThread_2,5,main] (DATABASE = db), (DRDAID = {1}), JDBC attribute 'create' has an invalid value 'ture', valid values are '{true|false}'.
+----------------------------------------------------------------
+Thu Oct 24 20:49:39 CEST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-ff19-c36a-00000e915750 
+on database directory C:\Users\Irfan\Desktop\Schule\4AHITM\sew\DrivingSchool\db\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+Loaded from file:/C:/opt/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.4+11
+user.dir=C:\Users\Irfan\Desktop\Schule\4AHITM\sew\DrivingSchool\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Irfan\Desktop\Schule\4AHITM\sew\DrivingSchool\db
+Database Class Loader started - derby.database.classpath=''
